@@ -1,7 +1,7 @@
 # MaxAI - *Version 0*
 
-Fully responsive [**ChatGPT AI Application**](https://maxai.vercel.app/) That Will Help You Code <br>
-Ask the Chatbot to write, list, explain any piece of code and watch the AI produce accurate results.
+Fully responsive [**ChatGPT AI Application**](https://maxai.vercel.app/) that will chat & help you code! <br>
+Ask the Chatbot to write, list, explain anything & watch the AI produce accurate results.
 
 # Tools Used
 - [JavaScript](https://www.javascript.com/)
